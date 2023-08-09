@@ -23,4 +23,4 @@ Note: the results in the uploaded code do not show the final optimal results. Be
 # Links
 Credits to musikalkemist for inspiration and basic code! \
 This project is an extension of his music classification series and a combination of other neural network architectural techniques.\
-Link to research paper: https://drive.google.com/file/d/1HoYawf43AskBRfnh7cYhCAdJW92uMQz7/view
+Link to [research paper](https://drive.google.com/file/d/1HoYawf43AskBRfnh7cYhCAdJW92uMQz7/view)
