@@ -1,7 +1,7 @@
 
 # Overview
 This is my research project of music genre classification through machine learning with three different neural networks. 
-I try and test out the basic structure of ANN, CNN, and RNN and end up improving the CNN model with data augmentation methods. 
+I try and test out the basic structure of ANN, CNN, and RNN and end up improving the CNN model with data augmentation methods to 81.49%. 
 In-depth data preprocessing and training features/processes are discussed in the paper.
 
 # Results
