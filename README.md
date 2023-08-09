@@ -1,6 +1,6 @@
 
 # Overview
-This is my research project of music genre classification through machine learning with three different neural networks.\
+This is my research project on music genre classification through machine learning with three different neural networks.\
 MFCCDemo.ipynb illustrates the preprocessing part (Preprocessor.ipynb) of converting audio data into readable MFCC data.\
 Pitch_Shift.ipynb transposes the key of audio data as a data augmentation method. \
 ANN, CNN, and RNN codes are optimized (training factors) to reach the highest accuracy through my testing.
@@ -8,7 +8,7 @@ I try and test out the basic structure of ANN, CNN, and RNN and end up improving
 In-depth data preprocessing and training features/processes are discussed in the paper.
 
 # Results
-Note: the results in the uploaded code do not show the final optimal results. Below are final results.
+Note: the results in the uploaded code do not show the final optimal results. Below are the final results.
 <img width="622" alt="Screenshot 2023-08-08 at 11 50 19 PM" src="https://github.com/joshkabloomy/music-classification/assets/95896434/19824670-60d4-4cb4-ac03-96c4ad70620b">
 
 
